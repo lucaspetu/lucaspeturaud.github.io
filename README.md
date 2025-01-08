@@ -2,8 +2,8 @@
 
 ## Objectifs :
 **1. Mettre en oeuvre les technologies weeb pour créer et héberger mon portfolio.**
-![Netbeans logo](NetBeans-Logo.wine.pn)
-![HTML Logo](html.pn)
+![Netbeans logo](NetBeans-Logo.wine.png)
+![HTML Logo](html.png)
 
 
 
